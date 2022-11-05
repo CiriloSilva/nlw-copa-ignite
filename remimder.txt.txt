@@ -1,0 +1,3 @@
+Corrigir detalhes na web. (Login c o Google)
+Add update no mobile. (Atualizar aposta já palpitada)
+Add update no server. (Rota e etc)
